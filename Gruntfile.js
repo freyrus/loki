@@ -44,7 +44,7 @@ module.exports = function(grunt) {
         },
         files: {
           'assets/css/main.css': [
-            'assets/sass/app.scss'
+            'assets/sass/main.scss'
           ]
         }
       }
